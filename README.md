@@ -156,7 +156,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- load of condition
+ load off condition
  
  ![WhatsApp Image 2023-03-24 at 12 47 41 PM](https://user-images.githubusercontent.com/118707204/227459981-360c622e-00d6-48f4-88f4-289ee8fb21ca.jpeg)
  
